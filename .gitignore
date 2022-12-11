@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/.idea/
+/hw-28.11.22.iml
